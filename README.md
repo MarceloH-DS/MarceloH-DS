@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Boas vindas ao meu perfil 
+### Boas vindas ao meu perfil 💙
 
 Meu nome é Marcelo Henrique
 
@@ -8,7 +8,7 @@ Meu nome é Marcelo Henrique
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- ### Você pode entrar em contato comigo
+- ### Você pode entrar em contato comigo 📫
 
 -marcelowork992@gmail.com
 
